@@ -20,3 +20,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ### Link For Web-App
 
 > https://ahmedatef1610.github.io/Stock-Trader/
+
+> http://stock-trader-vuejs.s3-website-eu-west-1.amazonaws.com
